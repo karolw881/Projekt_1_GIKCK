@@ -55,3 +55,4 @@ lab1_4
 4)Generowalem punkty a nastepnie te punkty(w projekcie nazwane plik_po_wzorze_czajnik , plik_po_wzorze_kubek , plik_po_wzorze_lyzka)
 skopiowane do ParaView 
 5)klasy : Bezier3d , panelbezier3d , Point
+6)pliki_po_wzorze_czajnik sa tworzone dopiero w momencie wykonania aplikacji , byly za duze (18mb) i repozytorium na githubie nie chcialo mi ich dodac 

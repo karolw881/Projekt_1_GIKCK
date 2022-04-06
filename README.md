@@ -1,8 +1,5 @@
 # Projekt_1_GIKCK
 lab1_4
-# GiKCK_Projekt_1
-Lab od 1 do 4 
-
 
 ## Aplikacja GUI ##
 

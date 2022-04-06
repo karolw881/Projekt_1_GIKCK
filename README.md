@@ -34,6 +34,8 @@ lab1_4
 	
 	
 <-- Tetris --> 
+
+
 2)dodane napis stop i menu dzieki ktorym wiadomo jaki klawisz wcisnac by wrocic do glownego menu 
 3) Problemy : podczas zamykania gry pojawia sie glowne menu , natomiast tetris sie nie zamyka :(
 4 ) Klasy: Board , Board_T , Menu_snake , Snake , Tetris , Shape 
